@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-family: 'Roboto';
+}
+.login-heading {
+  color: #000000;
+}
+.button {
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 1px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  padding: 5px;
+}
